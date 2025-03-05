@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MichaelArzamasov
+- 👋 Hi, I’m @MichaelArzamasov.
 - 👀 I’m interested in database
 - 🌱 I’m currently learning DBA PostgreSQL
 <!---- 💞️ I’m looking to collaborate on ... --->
